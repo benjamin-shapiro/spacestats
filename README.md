@@ -63,9 +63,21 @@ Chart Ideas:
   
   Launches: 
   
+      some data: https://nextspaceflight.com/
+  
       Successful launches by country/nation
       Successful launches by organization 
       Launches from country (regardless of org)
+      
+      Launches by vehicle type 
+      
+      Launches by individual vehicle (reuse)
+      
+      Launches by time of day at facility
+      
+      Launches by facility
+      
+      Launches by pad
     
 
   Space Business Economics: 
@@ -111,6 +123,12 @@ Chart Ideas:
       
   Big MISC: 
   
+      Active missions (at a particular time) by org/nation etc...
+      
+      Total price of assets in space at one time by org/nation etc...
+      
+      Cumulative losses due to failure by org/nation etc...
+  
       Things manufactured in space 
       
       Animals in space... 
@@ -142,6 +160,8 @@ Chart Ideas:
       Planets' moons discovered over history 
 
       Global satellites by domain/area of application (EO / Communications / in-space servicing / in-space manufacturing ... etc.)
+      
+      Reusable spacecraft recovered / relaunched 
 
 
 
